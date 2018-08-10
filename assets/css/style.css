@@ -1,0 +1,70 @@
+h1 {
+	font-size: 10px;
+	text-align: center;
+}
+
+#task {
+	width: 50%;
+	margin: auto;
+}
+
+#tasklist{
+	border: 1px solid gray;
+	padding: 20px;
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
+
+
+.task-list {
+	width: 60%;
+	height: 40px;
+	border-radius: 10px;
+	border: 1px solid gray;
+
+}
+
+.doneg {
+	background: lightgreen;
+	border: 1px solid white;
+	height: 50px;
+	width: 15%;
+	border-radius: 10px;
+}
+.revr {
+	background: indianred;
+	border: 1px solid white;
+	height: 50px;
+	width: 15%;
+	border-radius: 10px;
+}
+.hold {
+	margin-top: 20px;
+}
+
+
+.my-listholder {
+	width: 100%;
+}
+
+.donetask {
+	text-align: center;
+}
+
+.done_design {
+
+	color: white;
+	background: lightgreen;
+}
+
+
+.ongreen {
+	background-color: lightgreen;
+}
+
+
+.hide{
+	display: none;
+}
